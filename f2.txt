@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-added in master
-added in rebase
-=======
 merge change practice
 adding content for rebase
->>>>>>> dbec12a (added content in f2)
