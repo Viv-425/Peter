@@ -1,1 +1,3 @@
-important instructions provided by management
+<<<<<<< HEAD
+important im making changes to this file
+>>>>>>> devops
