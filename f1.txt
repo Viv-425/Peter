@@ -1,1 +1,2 @@
 delete all line in main
+stash checking
